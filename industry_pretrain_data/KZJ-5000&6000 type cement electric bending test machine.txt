@@ -1,0 +1,76 @@
+KZJ-5000/6000 Type Cement Electric Bending Test Machine
+Instruction  Manual
+China Building Material Text & Certification Group Co.Ltd
+National Cement Quality Supervision and Inspection Center of China
+Contents
+I Application
+II Main technical parameters
+III Brief introduction of structure
+IV Installation
+V Operating Methods And Service Regulations
+VI Maintenance And Troubleshooting Of Equipment
+VII Supporting Components
+I Application
+Cement electric bending tester is a necessary instrument for flexural strength test of mortar. For other varieties of cement products and non-metallic brittle materials, the bending strength test can also be used in this instrument.
+II Main Technical Parameters
+1. Maximum load
+KZJ-5000 : 11.7Mpa  5000N
+KZJ-6000 : 14.0Mpa  6000N
+2.Speed of loading
+KZJ-5000 : (0.117±0.0117)Mpa  (50±5)N/S
+KZJ-6000 : (0.14±0.014)Mpa  (50±5)N/S
+3. Indication error ＜ 1% （Accuracy level 1）
+4. Degree of indication change ＜ 1%
+5. Support cylinder center distance （100±0.1）mm
+6. Support cylinder diameter  φ（10±0.1）mm
+7. The support column irregularity  ＜ 0.1mm
+8. Upper and lower fixture center offset  ＜ 1mm
+9. Test block size for electric bending test machine （160mm×40mm×40mm）
+10. Power supply
+（1）Frequency ： 50Hz
+（2）Rated voltage ：220V
+（3）Power consumption ：10W
+11. Contour dimension  （1026mm×250mm×861mm）
+12. Net weight ： 100Kg   ； Gross weight：115Kg
+Figure 1 Structure Diagram
+The names of the figures in the above figure are as follows:
+1-Clump weight    2-The shelf of Clump weight    3-Gravitational point tool holder   4-Fulcrum tool holder   5-Screw   6-A moving block   7-Button   8-Main lever    9-Connecting plate     10-Positioning plate   11-The micro switch   12-Bracket    13-Column     14-Control box    15-Base    16-Handwheel   17-Up and down screw    18-Lower fixture   19-Upper fixture  20-Test block baffle  21-Sub fulcrum tool holder   22- Sub gravity point tool holder   23- Sub lever    24- Connecting tool holder    25- Derrick   26- Motor base   27- Electric machinery
+Figure 2   Electrical Schematic Diagram
+
+III Brief Introduction Of Structure
+The equipment is made up of the following parts
+1. “8” is made from 45# steel plate, “1” in the plane with scale left it with “3” and “4”.
+2. “5” is parallel to the main lever, it is driven by a reversible motor and rotates, and move the “6” on the main lever.
+3. The pillar(“13”) plays a major role in supporting.
+4. The lower jig can lift the lifting screw up and down with the help of the hand wheel
+IV Installation
+1. Unboxing
+1.1 Open the outer packing and remove the plastic film cover.
+1.2 Take out the main and secondary levers, the host and other parts. Then remove the wrapping paper and do a good job of cleaning and dedusting.
+2. Installation location and environmental requirements
+2.1 Please install the equipment on a solid platform. The indoor temperature is from 17 to 25 degrees centigrade
+2.2 Avoid the intrusion of water vapor and corroded gas.
+3. How to install the equipment
+3.1 Put the equipment on the workbench and adjust the level.
+3.2 The main lever assembly is mounted on the bracket, and then the suspension component and the auxiliary lever are connected.
+V Operating Methods And Service Regulations
+1.Operation methods
+1.1 Please connect the equipment to the power supply.
+1.2 Zero point adjustment.
+1.3 Cleaning up the sundries on the folding clamp, then put the test body in the folding clamp. Rotate the wheel to clamp the test body, so that the main lever will have an elevation angle.
+1.4 Press the start button to show the light. The motor drives the wire rod. Block moving load. When loading to a certain value, the body is broken, the main lever connecting plate is pressed, the micro switch motor is stopped, and the motor stops. The flexural strength will be displayed on the main lever scale.
+1.5 Press the “7” button to push “6” back to zero and prepare for the next experiment.
+2. Service regulations
+After the test is finished, we need to turn off the power and make the “6” return to zero.
+VI Maintenance And Troubleshooting Of Equipment
+1. Maintenance of equipment
+（1） The equipment is forbidden to use in corrosive gas and strong magnetic field.
+（2）When the device does not work with a cloth cover please. This is done to prevent the dust from invading.
+（3）The knife and the knife pad on the device should be used on a regular basis with anhydrous alcohol scrub silk. This is done to prevent dust and oil contamination at the contacting part of the blade.
+2. Usual malfunction eliminating
+（1）If the power switch indicator is not lighted, check whether the fuse is burned.
+（2）If the main lever on the device is not flexibly swinging, it should be checked whether the knife is in the middle of the knife seat.
+（3）The failure of the block button should be the screw or spring of the price difference button part.
+VII Supporting Components
+1. The box is equipped with a main engine, a main lever assembly, a sub lever assembly, a set of upper fixtures, a positioning plate.
+2. A copy of the product instructions attached to the equipment.

@@ -1,0 +1,82 @@
+Curing Box For Cement Mortar Specimens
+Instruction Manual
+China Building Materials Text & Certification Group Co.,Ltd.
+I Summary
+This equipment is under the guidance of the State Building Materials Institute cement and cement quality inspection center. According to the requirements of the new standard GB/T17671-1999 and JC/T959-2005, the new maintenance equipment developed and improved on the basis of the original YH-40B curing box.
+The equipment is laboratory in building materials and construction industry. When testing the strength of cement and concrete, the experimental device for cement and concrete block maintenance is maintained.
+The standard humidity of the maintenance box is 90-95%, the existing technology has no temperature control and display device, only in the maintenance box to increase the humidity, can not directly measure the size of the humidity in the box, and can not control it, so the result of the maintenance of the test body may be inaccurate.
+The development of this equipment has provided an automatic control device that can meet the experimental requirements for building materials and construction industry. The operation is simple and convenient, the temperature and humidity automatic control and direct digital display, the temperature adopts the heating and the compressor cooling to meet the standard requirement, the humidity uses the ultrasonic humidifier to guarantee the requirement, the full automatic function control only needs to open the power supply, and can achieve the purpose that you need.
+The inner wall of the box is made of imported stainless steel plate and polyurethane foam is used as insulation material between the inner and outer boxes to correct the defects of the insulation layer in the product, so that the inner and outer boxes are formed, and the rust and turbid of the iron plate of the outer box is also prevented.
+The above techniques to obtain the national patent, imitation.
+II Technical Parameter
+1. Power Supply: AC220V ± 10%
+2. Internal size of the box：700×560×1100 （mm）
+3. Capacity:     Soft practice test  5 layer ×8 = 40
+       Concrete    150×150    5 layer ×6 = 30
+Concrete    100×100    5 layer ×8 = 40
+4. Constant temperature precision ：（68~68.9）℉. It is maneuverable.
+5. The range of constant humidity ranges from 92% to 98%.
+6. The heating power is 400W.
+7. The cooling power is 160W.
+8. The circulating fan is 400W.
+9. Atomizer ： 48V/ 15W.
+10. Shape size ：1200×1550×700.
+11. Net weight ： 150Kg.
+12. Work environment ：32℉~ 95℉。
+III Working principle
+The instrument transforms the signals of dry and wet temperature sensors into corresponding digital signals, and then displays and controls them by single chip microprocessor.
+When the temperature inside the box is lower than the lower limit set in the table, the controller makes the heater work up. Automatic stop when the temperature is set at the lower limit. Conversely, when the temperature inside the box is higher than the upper limit temperature set in the table, the controller will command the refrigeration compressor to cool down. Automatically stop when the upper limit is reached.
+When the temperature in the box is lower than the set humidity, the meter lets the humidifier spray and humidifier, auto stop after reaching. So repeated work to control the purpose of the request.  In order to ensure the uniformity of temperature and humidity in the box, the internal circulation system is specially adopted.
+IV Use And Operation
+1. According to the product description, we first place the curing box far away from the heat source. Fill the water bottle in the box with water and put the cotton yarn on the probe into the water bottle. There is a humidifier in the distribution box on the side of the maintenance box. Please take the water tank and fill the clear water and turn on the humidifier switch.
+2. In order to keep the humidity in the box stable, add the humidifying water box at the bottom of the box. There are self-absorbent cotton yarn on the top of the water box. When the fan works, the wind goes through the cotton yarn to remove the humidity.
+3. In order to make the temperature inside the box even, the dispatching switch is added to the circulating fan, and the air volume can be adjusted according to the actual use.
+4. Check the connection reliability. When the supply voltage is normal, the instrument power is turned on, and the instrument is reset by power. Then enter the working state, begin to measure, display and control the temperature and humidity.
+V Setting Of Instrument Parameters
+1. Front panel data display and operation instructions
+1.1 Definition of the operation panel
+“↻”：【Setting key】：Enter, switch and exit parameter setting state or viewing state；
+“◀”：【Left shift key】：Left shift selects the data bits to be operated, and the selected digit scintillation prompt;
+“▼”：【Decrease key】：It is used to reduce the value in the state of parameter setting;
+“▲”：【Increase key】：It is used to increase the value of the parameters in the parameter setting state.
+1.2 LED display in measurement state
+The upper row shows real-time measurements, and the next row shows the set values. The humidity information is displayed on the left side and the temperature information is displayed on the right side.
+The temperature data display format is: 3 bit data 00.0-99.9℃. Humidity data display format: 2 bit data 00-99%RH.
+1.3 Control value setting
+Under the state of measurement，press "↻" after a few seconds, enter the state of the control value parameter setting. The bit flicker of a value to be modified at this time. Please press “▼” or “▲” to modify the flicker bit value. Press “◀” to move left to select the set of data bits, the selected bit will flash.
+If a parameter is modified or does not need to be modified, you can go directly to the modification of the next parameter item by pressing the   "↻" key. When all the parameters are set to complete,please press the    "↻" key again, the instrument will save the control value and exit the set state, and return to the normal measurement state.
+In the state of parameter setting,if the user has no operation for a long time, the instrument will automatically return to the normal measurement state due to the overtime operation after about 30 seconds. Of course,the set parameters are not valid.
+1.4 Control parameter setting
+Under the state of measurement, press "A" & "B" for a few seconds at the same time, then enter the control parameter setting state. The bit flicker of a value to be modified at this time.Change the scintillation value by “▲” or “▼”. According to the “◀” move left to select the set of data bits, the selected bit will flash. If a parameter is modified or does not need to be modified, you can go directly to the modification of the next parameter item by pressing the "↻" key. When all the parameters are set to complete,please press the "↻" key again, the instrument will save the control value and exit the set state, and return to the normal measurement state.
+Note:
+1.  In the case of the three level parameter as the default value, the above parameters must satisfy the "HH" + "HL" ≥ 1 ℃.
+2. Timing humidification function.
+If the sampling humidity lasts for more than 1 minutes, it is greater than or equal to the set humidity. The device will automatically humidification for S2 minutes.
+Three level parameter: At the same time press “◀” & “▼” to enter the interface.
+Annotation:
+1.The A value of the wind speed coefficient will directly affect the calculated humidity value. Another way of saying, the humidity of the instrument is calculated according to the field working conditions, and the appropriate A value is calculated. When the A value of the instrument is closer to the actual value, the humidity of the meter is more accurate.
+In the state of parameter setting,if the user has no operation for a long time, the instrument will automatically return to the normal measurement state due to the overtime operation after about 30 seconds. Of course,the set parameters are not valid.
+2. The internal control parameters of the instrument are described as follows.
+2.1 Temperature control process and parameter setting
+Temperature control process.
+For example, if the temperature control value “ST” is set to 20 ℃, the upper limit relative value “TH” is set to 0.5℃, the lower relative value “TL” is set to 0.5 ℃, the upper temperature difference “TU” is set to 0.7 ℃, and the “Td” of the lower temperature difference is set to 0.2℃. When the temperature inside the box is less than 19.5 ℃, the heating relay will periodically absorb the heating device and start heating. When the temperature rises to more than 19.7℃, stop heating.
+When the temperature continues to rise to more than 20.5℃, the device will begin refrigeration. When the temperature is less than or equal to 19.8 ℃, the device will stop refrigeration. 
+2.2 Humidity control process and parameter setting
+Humidity control process. For example, if we set the relative humidity control value SH to 90%, the upper limit relative value "HH" is set to 2%, the lower relative value "HL" is set to 2%, and the return difference "HA" is set to 1%.Then when the humidity is less than 88%, start humidification humidifier. When the humidity is not less than 89%, the device will stop humidification. If you continue to start to rise to more than 92%, the device will stop dehumidification until less than 91%.
+2.3 Return difference parameter setting
+The setting of return value is to prevent control oscillation when the current temperature and humidity reach critical control value. If there is no reasonable setting of the return parameter，it will cause frequent action of actuator and shorten the life of equipment. The reasonable setting back difference can stabilize the generated control oscillation in the permitted range, but also reduce the control precision. It can be selected in a certain range according to the actual needs. In order to prevent the error setting, cause the frequent control, the instrument has the minimum back difference limit, the temperature and the lower back difference is not less than 0.1 ℃, the humidity back difference is not less than 1%.
+2.4 Fault display and processing
+In the process of control，if the dry or wet bulb sensor is broken, the humidity display area on the left side of the instrument will display "--" and turn off the humidity control output.
+If the dry ball sensor is disconnected, the instrument will turn off the temperature control output，the right humidity display area shows "---". The sensor needs to be recharged after the sensor is repaired.
+When the upper and lower limits and backlash parameters are set, if the parameter settings are not reasonable, the instrument will stop sampling and control output updates. Then in the upper display blanking, the lower the error "EER" until the parameters are corrected correctly.
+VI Circuit Diagram Of Electrical Principle
+VII Matters Needing Attention
+1. In handling the machine, please be careful, the inclination of not more than 45 degrees, not upside down, so as not to affect the refrigeration compressor.
+2. Please connect the ground wire of the power line before starting, so as to avoid leakage accident.
+3. Please check the water level of the sensor box frequently, ensure that there is water for the accuracy of humidity.
+4. When the water in the humidifier is small or no water, it will not spray. It should be injected into the humidifier tank in time to work normally, and pay attention to the power supply in the box when adding water.
+5. When used, minimize the number and time of opening the door, and start normal after 12h.
+VIII Condition of warranty
+1. From the date of the instrument out of the factory, the warranty is one year.
+2. Due to improper use of the user, causing damage to electrical and other components, the fee is charged according to the circumstances.
+3. If the instrument exceeds the warranty period, the cost will be charged according to the components.
