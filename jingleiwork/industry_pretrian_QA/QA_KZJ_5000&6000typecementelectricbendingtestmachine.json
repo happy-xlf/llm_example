@@ -1,0 +1,347 @@
+[
+    {
+        "instruction": "如何使用KZJ-5000/6000型水泥 Electric Bending Test Machine进行测试？",
+        "input": "我想要使用KZJ-5000/6000型水泥 Electric Bending Test Machine进行测试。",
+        "output": "首先，请确保您已经阅读并理解了机器的使用说明书。接下来，将测试样品放入机器的样品架上，然后按下开始按钮。测试过程中，机器将自动进行水泥弯曲测试。测试完成后，机器将生成测试结果报告，您可以查看报告以了解测试结果。"
+    },
+    {
+        "instruction": "KZJ-5000/6000型水泥 Electric Bending Test Machine有哪些功能？",
+        "input": "我想了解KZJ-5000/6000型水泥 Electric Bending Test Machine的功能。",
+        "output": "KZJ-5000/6000型水泥 Electric Bending Test Machine具有以下功能：1. 进行水泥弯曲测试；2. 测试样品的尺寸和形状测量；3. 生成测试结果报告。"
+    },
+    {
+        "instruction": "描述中国 National Cement Quality Supervision and Inspection Center 的主要职责。",
+        "input": "我想要了解中国 National Cement Quality Supervision and Inspection Center 的主要职责。",
+        "output": "中国 National Cement Quality Supervision and Inspection Center 的主要职责包括：对全国水泥产品质量进行监督、检查和认证；对水泥生产企业的生产设备、工艺和产品进行检验和评估；对水泥行业进行技术指导和培训；提供水泥产品质量检测和咨询服务。"
+    },
+    {
+        "instruction": "解释中国 National Cement Quality Supervision and Inspection Center 提供的服务。",
+        "input": "我想要了解中国 National Cement Quality Supervision and Inspection Center 提供的服务。",
+        "output": "中国 National Cement Quality Supervision and Inspection Center 提供的服务包括：对水泥产品进行质量检测和认证；对水泥生产企业的生产设备、工艺和产品进行检验和评估；对水泥行业进行技术指导和培训；提供水泥产品质量检测和咨询服务。"
+    },
+    {
+        "instruction": "说明如何联系中国 National Cement Quality Supervision and Inspection Center。",
+        "input": "我想要联系中国 National Cement Quality Supervision and Inspection Center。",
+        "output": "你可以通过电话拨打010-8888-8888进行咨询和预约；或者通过电子邮件发送邮件至 NCI_info@example.com 获取更多信息。"
+    },
+    {
+        "instruction": "描述中国 National Cement Quality Supervision and Inspection Center 的结构。",
+        "input": "我想要了解中国 National Cement Quality Supervision and Inspection Center 的结构。",
+        "output": "中国 National Cement Quality Supervision and Inspection Center 的结构如下："
+    },
+    {
+        "instruction": "解释水泥生产过程中需要注意的事项。",
+        "input": "我想要了解水泥生产过程中需要注意的事项。",
+        "output": "在水泥生产过程中需要注意的事项如下：1. 严格控制原材料的质量，确保生产出的水泥质量优良。2. 注重生产工艺，确保生产出的水泥性能稳定。3. 加强设备维护，确保设备正常运行。4. 注意生产环境，保持生产现场的整洁和卫生。5. 严格遵守安全规定，确保生产过程中的安全。"
+    },
+    {
+        "instruction": "描述水泥电动弯折试验机的功能。",
+        "input": "请解释一下水泥电动弯折试验机是什么以及它的作用。",
+        "output": "水泥电动弯折试验机是一种用于测试混凝土砂浆抗弯强度的试验设备。通过对砂浆进行弯曲测试，可以测量砂浆的抗弯强度，从而评估砂浆的质量和适用性。"
+    },
+    {
+        "instruction": "说明如何使用水泥电动弯折试验机进行测试。",
+        "input": "我想知道如何操作水泥电动弯折试验机进行测试。",
+        "output": "使用水泥电动弯折试验机进行测试的具体步骤如下：首先，将砂浆倒入试验机中的试验室中；然后，将试验机的上部分固定在支架上，下部分放在试验室中；接着，开动试验机的电源，使试验机开始工作；最后，测量试验机所测得的抗弯强度值。"
+    },
+    {
+        "instruction": "What is the弯曲强度测试仪主要用于哪些材料？",
+        "input": "The bending strength test can also be used in this instrument for other varieties of cement products and non-metallic brittle materials.",
+        "output": "弯曲强度测试仪主要用于测试水泥产品和其他非金属脆性材料的弯曲强度。"
+    },
+    {
+        "instruction": "What are the maximum loads for KZJ-5000 and KZJ-6000?",
+        "input": "The maximum load for KZJ-5000 is 11.7Mpa and 5000N, and for KZJ-6000 is 14.0Mpa and 6000N.",
+        "output": "KZJ-5000的最大载荷为11.7Mpa和5000N，KZJ-6000的最大载荷为14.0Mpa和6000N。"
+    },
+    {
+        "instruction": "What are the specifications of the KZJ-5000 speed sensor?",
+        "input": "I need information about the specifications of the KZJ-5000 speed sensor.",
+        "output": "The KZJ-5000 speed sensor has a measurement range of (0.117±0.0117)Mpa and a maximum error of ＜1%. It is capable of measuring speeds with an accuracy level of 1 and has a maximum speed limit of 50N/S. The sensor's support cylinder center distance is 100±0.1mm."
+    },
+    {
+        "instruction": "What is the specifications of the KZJ-6000 speed sensor?",
+        "input": "I would like to know the specifications of the KZJ-6000 speed sensor.",
+        "output": "The KZJ-6000 speed sensor has a measurement range of (0.14±0.014)Mpa and a maximum error of ＜1%. It is capable of measuring speeds with an accuracy level of 1 and has a maximum speed limit of 50N/S. The sensor's support cylinder center distance is 100±0.1mm."
+    },
+    {
+        "instruction": "What is the degree of indication change for the KZJ-5000 speed sensor?",
+        "input": "I would like to know the degree of indication change for the KZJ-5000 speed sensor.",
+        "output": "The degree of indication change for the KZJ-5000 speed sensor is ＜1%."
+    },
+    {
+        "instruction": "What is the support cylinder center distance for the KZJ-5000 speed sensor?",
+        "input": "Can you provide information about the support cylinder center distance for the KZJ-5000 speed sensor?",
+        "output": "The support cylinder center distance for the KZJ-5000 speed sensor is 100±0.1mm."
+    },
+    {
+        "instruction": "What is the maximum error for the KZJ-6000 speed sensor?",
+        "input": "What is the maximum error for the KZJ-6000 speed sensor?",
+        "output": "The maximum error for the KZJ-6000 speed sensor is ＜1%."
+    },
+    {
+        "instruction": "What is the meaning of 'Support cylinder diameter φ（10±0.1）mm'?",
+        "input": "I am confused by the term 'Support cylinder diameter φ（10±0.1）mm'. Can you explain what it means?",
+        "output": "这个术语是指支持柱的直径，其中φ代表直径，单位为毫米，范围在10±0.1毫米之间。它表明了支持柱的尺寸规格，并且提供了允许的尺寸偏差范围。"
+    },
+    {
+        "instruction": "What is the purpose of 'The support column irregularity ＜ 0.1mm'?",
+        "input": "I am curious about the phrase 'The support column irregularity ＜ 0.1mm'. Can you tell me what it means?",
+        "output": "这个术语是指支持柱的 irregularity，即其形状不规则度，其值应小于0.1毫米。这表明了支持柱在制造过程中需要满足的要求，以确保其形状符合规定。"
+    },
+    {
+        "instruction": "What is the significance of 'Upper and lower fixture center offset ＜ 1mm'?",
+        "input": "I don't understand the meaning of 'Upper and lower fixture center offset ＜ 1mm'. Can you clarify its significance?",
+        "output": "这个术语是指夹具上下基准中心的偏移量，其值应小于1毫米。这表明了夹具在安装时需要满足的要求，以确保其位置准确。"
+    },
+    {
+        "instruction": "What is the test block size for electric bending test machine?",
+        "input": "I need information about the test block size for the electric bending test machine. Can you provide it?",
+        "output": "The test block size for the electric bending test machine is 160mm×40mm×40mm."
+    },
+    {
+        "instruction": "请解释电源的相关信息。",
+        "input": "请提供电源的频率、额定电压和功率消耗等详细信息。",
+        "output": "电源的频率是50Hz，额定电压是220V，功率消耗是10W。"
+    },
+    {
+        "instruction": "请提供电源的尺寸。",
+        "input": "请提供电源的尺寸，以便选择合适的安装位置。",
+        "output": "电源的尺寸是1026mm×250mm×861mm。"
+    },
+    {
+        "instruction": "解释Net weight和Gross weight的含义。",
+        "input": "Net weight是净重，Gross weight是总重。在给定的文本中，Net weight是100Kg，Gross weight是115Kg。",
+        "output": "Net weight是指物品的实际重量，不包括任何附加物体的重量。Gross weight是指物品以及所有附加物体的总重量。在购买物品时，你需要知道物品的Net weight和Gross weight，以便确定它的总重量和是否符合你的需求。"
+    },
+    {
+        "instruction": "描述图1中的结构图。",
+        "input": "图1中的结构图包括以下几个部分：1-Clump weight，2-The shelf of Clump weight，3-Gravitational point tool holder，4-Fulcrum tool holder，5-Screw，6-A mo。这些部分构成了一个完整的结构体系。",
+        "output": "图1中的结构图显示了一个包含多个部分的结构。这些部分包括Clump weight、The shelf of Clump weight、Gravitational point tool holder、Fulcrum tool holder、Screw和A mo。这些部分共同构成了一个完整的结构体系，用于提供稳定和支撑。"
+    },
+    {
+        "instruction": "解释ving block的作用。",
+        "input": "ving block是什么？",
+        "output": "ving block是一种用于控制机器 Tools 的组件，它提供了方便的接口和操作方式。它通常被用于需要频繁更换工作位置或需要对工具进行精确控制的场景。"
+    },
+    {
+        "instruction": "如何使用ving block进行工作？",
+        "input": "ving block如何进行操作？",
+        "output": "使用ving block时，你需要首先将其安装到需要控制的工具上，然后通过操作ving block上的按钮或手轮来控制工具的工作。你可以根据需要调整ving block的位置和角度，以获得更好的操作效果。"
+    },
+    {
+        "instruction": "ving block与其他工具的区别。",
+        "input": "ving block与其他控制工具有什么不同？",
+        "output": "ving block与其他控制工具最大的不同在于其操作方式。它采用按钮和手轮的设计，使得操作更加直观和便捷。同时，ving block还具有精确控制和灵活调整位置的特点，因此在需要精确控制和频繁更换工作位置的场合具有优势。"
+    },
+    {
+        "instruction": "ving block的安装方法。",
+        "input": "如何安装ving block？",
+        "output": "安装ving block的具体步骤如下：首先，将ving block固定到需要控制的工具上，然后调整ving block的位置和角度，使其能够满足控制需求。接下来，连接ving block到控制设备上，并设置相关参数。最后，可以通过操作ving block上的按钮和手轮来控制工具的工作。"
+    },
+    {
+        "instruction": "What are the different parts of the eq structure?",
+        "input": "The eq structure consists of several different parts, including the affle, sub fulcrum tool holder, sub gravity point tool holder, sub lever, connecting tool holder, derrick, motor base, and electric machinery.",
+        "output": "The affle is a tool holder for the electric motor, the sub fulcrum tool holder is a tool holder for the sub machine, the sub gravity point tool holder is a tool holder for the tool post, the sub lever is a lever for adjusting the load, the connecting tool holder is a tool holder for connecting the sub machine and the main machine, the derrick is a device for lowering and raising the tool post, and the motor base provides the power for the electric machinery."
+    },
+    {
+        "instruction": "How does the eq structure work?",
+        "input": "The eq structure is used to transfer the load from the sub machine to the main machine. The different parts of the eq structure work together to make this transfer possible. For example, the affle and sub gravity point tool holder are used to hold the tool post in place, while the sub lever and connecting tool holder are used to adjust the load and position of the tool. The derrick is used to lower and raise the tool post to facilitate the transfer of the load.",
+        "output": "The eq structure is a complex system that requires careful alignment and adjustment to ensure proper operation. It is important to properly understand the different parts and their functions to properly use the eq structure and achieve the desired results."
+    },
+    {
+        "instruction": "What is the purpose of the motor base in the eq structure?",
+        "input": "The motor base provides the power for the electric machinery in the eq structure. It is responsible for transmitting the electrical power from the source to the various components of the eq structure that need it.",
+        "output": "The motor base is a crucial component of the eq structure because it provides the necessary power for the electric machinery to function. It allows the sub machine and the main machine to work together to achieve the desired results, and it ensures that the eq structure is able to operate efficiently and effectively."
+    },
+    {
+        "instruction": "解释'8'的部分组成。",
+        "input": "请解释'8'的部分组成。",
+        "output": "‘8’是由45#钢板制成的，其中‘1’在平面上有‘3’和‘4’留下了痕迹。"
+    },
+    {
+        "instruction": "描述'5'的作用。",
+        "input": "请描述'5'的作用。",
+        "output": "‘5’是并与主杠杆平行的，由可逆电机驱动旋转，并移动主杠杆上的‘6’。"
+    },
+    {
+        "instruction": "解释IV安装中的部件作用。",
+        "input": "在IV安装中，有一个柱子('13')起主要支持作用。",
+        "output": "在IV安装中，柱子('13')扮演着关键的角色，它支持其他部件的工作。通过使用手轮，下方的支架可以上下移动，从而方便安装和拆卸。"
+    },
+    {
+        "instruction": "说明如何安装IV。",
+        "input": "请说明IV的安装过程。",
+        "output": "IV的安装分为四个步骤。首先，需要打开外包装，并 remove the plastic film cover。接下来，将相关部件组装在一起，然后通过使用手轮，下方的支架可以上下移动，以便于安装和拆卸。"
+    },
+    {
+        "instruction": "在安装机器人的过程中，我需要哪些步骤？",
+        "input": "在安装机器人时，我需要哪些步骤？",
+        "output": "首先，请确保机器人安装在稳固的平台上。接着，需要拆卸机器人主体和辅助杠杆、主机和其他部分。然后清理并除尘。最后，根据安装环境的要求进行安装。"
+    },
+    {
+        "instruction": "安装机器人时需要注意哪些事项？",
+        "input": "安装机器人时需要注意哪些事项？",
+        "output": "在安装机器人时，请确保机器人安装在稳固的平台上，避免晃动或位移。同时，需要拆卸机器人主体和辅助杠杆、主机和其他部分，以方便安装和维护。此外，还需要清理并除尘，以确保机器人的正常运行。"
+    },
+    {
+        "instruction": "我需要在17到25摄氏度的范围内安装设备。",
+        "input": "设备需要在什么温度下安装？",
+        "output": "设备需要在17到25摄氏度的范围内安装。"
+    },
+    {
+        "instruction": "避免水和腐蚀气体的侵蚀。",
+        "input": "安装设备时需要注意什么？",
+        "output": "避免水和腐蚀气体的侵蚀。"
+    },
+    {
+        "instruction": "如何安装设备？",
+        "input": "安装设备的具体步骤是什么？",
+        "output": "首先，将设备放在工作台上，并调整水平。"
+    },
+    {
+        "instruction": "请解释一下，如何安装和使用主要的杠杆组件？",
+        "input": "请根据上述信息和示例，详细解释如何安装和使用主要的杠杆组件。",
+        "output": "首先，将设备连接到电源。然后，将悬挂组件和辅助杠杆连接到主要的杠杆组件上。在操作时，请遵循相关的操作方法。"
+    },
+    {
+        "instruction": "请描述一下，主要的杠杆组件、悬挂组件和辅助杠杆的作用？",
+        "input": "请根据上述信息和示例，解释一下主要的杠杆组件、悬挂组件和辅助杠杆的作用。",
+        "output": "主要的杠杆组件负责支撑和调整设备的角度；悬挂组件负责减轻设备的重量；辅助杠杆则提供额外的支持，以帮助调整设备的角度。"
+    },
+    {
+        "instruction": "什么是零点调整？",
+        "input": "在折页夹具上进行零点调整。",
+        "output": "零点调整是指在折页夹具上对测试样品进行微调，以确保样品在夹具中的位置准确，以便进行后续的测试。"
+    },
+    {
+        "instruction": "如何清理折页夹具上的杂物？",
+        "input": "在折页夹具上清理杂物。",
+        "output": "首先，需要将测试样品放入折页夹具中，然后旋转轮子，使主杠杆具有提升角度。接着，小心地清理折页夹具上的杂物，以确保样品稳定地固定。"
+    },
+    {
+        "instruction": "如何操作折页夹具？",
+        "input": "如何操作折页夹具？",
+        "output": "操作折页夹具的步骤如下：首先，将测试样品放入折页夹具中。接着，旋转轮子，使主杠杆具有提升角度。然后，根据需要调整夹具的位置和角度，以确保样品稳定地固定。最后，进行相应的测试。"
+    },
+    {
+        "instruction": "如何操作这个设备？",
+        "input": "我需要操作这个机器。",
+        "output": "你需要按亮起按钮，让电机驱动钢丝杆。当负载达到一定值时，设备主体会被打破，主杠杆连接板会被按下，微开关电机会被停止，电机也会停止工作。"
+    },
+    {
+        "instruction": "这个设备有什么功能？",
+        "input": "我想知道这个设备的功能。",
+        "output": "这个设备可以操作，可以控制钢丝杆的运动，具体操作方式如上所述。"
+    },
+    {
+        "instruction": "如果设备无法正常工作，我应该如何处理？",
+        "input": "如果这个设备无法正常工作，我应该如何处理？",
+        "output": "你可以尝试重新启动设备，或者检查设备是否存在故障，如果无法解决问题，可以联系设备制造商或者技术支持进行处理。"
+    },
+    {
+        "instruction": "如何在示例中找到主 lever scale上的 flexural strength 值？",
+        "input": "我正在查看一个示例，想找到主 lever scale上的 flexural strength 值。",
+        "output": "在示例中，flexural strength 值将显示在主 lever scale上，你只需要找到相应的刻度线并读取数值即可。"
+    },
+    {
+        "instruction": "如何在操作中使用 '7' 按钮？",
+        "input": "在操作示例时，我需要使用 '7' 按钮。",
+        "output": "在操作示例时，请按下 '7' 按钮，这将有助于执行相应的操作。"
+    },
+    {
+        "instruction": "What should be done after the test is finished?",
+        "input": "After the test is finished, we need to turn off the power and make the \"6\" return to zero.",
+        "output": "在测试结束后，我们需要关闭电源，并将“6”返回零。"
+    },
+    {
+        "instruction": "How to perform maintenance and troubleshooting for equipment?",
+        "input": "请根据上述信息和示例，说明如何对设备进行维护和故障排除?",
+        "output": "根据上述示例，设备维护和故障排除的具体步骤如下：在测试结束后，我们需要关闭电源，并将“6”返回零。接下来，我们可以进行设备维护和故障排除。首先，检查设备的外观和连接，确保没有损坏或松动。然后，检查设备的运行状态，如声音、温度、压力等，确保设备正常运行。如果发现任何问题，我们需要立即采取措施解决问题，以避免设备损坏或故障。"
+    },
+    {
+        "instruction": "在什么情况下禁止使用该设备？",
+        "input": "The equipment is forbidden to use in corrosive gas and strong magnetic field.",
+        "output": "设备禁止在腐蚀性气体和强磁场中使用。"
+    },
+    {
+        "instruction": "如果设备没有使用 cloth cover，会发生什么？",
+        "input": "When the device does not work with a cloth cover please. This is done to prevent the dust from invading.",
+        "output": "如果设备没有使用布覆盖，会有灰尘侵入。"
+    },
+    {
+        "instruction": "如何正确使用 Knife 和 Knife Pad？",
+        "input": "The knife and the knife pad on the device should be used on a regular basis with anhydrous alcohol scrub silk. This is done to prevent dust and oil contamination at the contacting part of the blade.",
+        "output": "为了确保设备上的刀具和刀垫正确使用，您应该使用无水酒精擦拭丝绸来清洁。这样可以防止刀片接触部分受到灰尘和油污的污染。"
+    },
+    {
+        "instruction": "Knife 和 Knife Pad 需要什么材料？",
+        "input": "The knife and the knife pad on the device should be used on a regular basis with anhydrous alcohol scrub silk. This is done to prevent dust and oil contamination at the contacting part of the blade.",
+        "output": "为了正确使用 Knife 和 Knife Pad，您需要使用无水酒精擦拭丝绸进行清洁。这种材料可以有效地防止刀片接触部分受到灰尘和油污的污染。"
+    },
+    {
+        "instruction": "当设备上的主开关指示灯不亮时，应如何检查保险丝是否烧坏？",
+        "input": "设备上的主开关指示灯不亮，我应该如何检查保险丝是否烧坏？",
+        "output": "首先，您可以检查保险丝是否烧坏。如果保险丝烧坏，设备上的主开关指示灯将不会亮起。您可以检查电路板上的保险丝是否烧坏，或者使用放大镜检查保险丝是否烧坏。"
+    },
+    {
+        "instruction": "当设备上的主 lever 没有灵活地摆动时，我应该如何检查刀片是否位于刀座中间？",
+        "input": "设备上的主 lever 没有灵活地摆动，我应该如何检查刀片是否位于刀座中间？",
+        "output": "您可以检查刀片是否位于刀座中间。如果刀片位于刀座中间，主 lever 应该能够灵活地摆动。如果刀片不在刀座中间，主 lever 可能需要进行调整或更换。"
+    },
+    {
+        "instruction": "解释什么是价格差异按钮。",
+        "input": "什么是价格差异按钮？",
+        "output": "价格差异按钮是用于调整商品价格的按钮。当用户点击该按钮时，系统会根据当前价格和设置的价格进行比较，如果价格差异达到设定值，系统会自动调整商品价格。"
+    },
+    {
+        "instruction": "如何使用价格差异按钮？",
+        "input": "我如何使用价格差异按钮？",
+        "output": "使用价格差异按钮的具体步骤如下：首先，找到商品并点击价格差异按钮，然后设置你希望的价格差异值，最后确认修改。系统会根据你设定的价格差异值自动调整商品价格。"
+    },
+    {
+        "instruction": "什么是 Supporting Components？",
+        "input": "什么是 Supporting Components？",
+        "output": "Supporting Components是指在主要组件之外，为提高系统功能或性能而额外提供的组件。例如，在价格差异按钮功能中，价格差异按钮就是一种 Supporting Components，它用于调整商品价格。"
+    },
+    {
+        "instruction": "解释什么是块状按钮。",
+        "input": "什么是块状按钮？",
+        "output": "块状按钮是一种特殊的按钮，它的形状呈块状，与其他按钮相比，它可能具有更高的点击区域，因此更容易被用户点击。不过，块状按钮的具体功能和应用场景可能因设备和软件而异。"
+    },
+    {
+        "instruction": "如何使用块状按钮？",
+        "input": "我如何使用块状按钮？",
+        "output": "使用块状按钮的具体步骤如下：首先，找到块状按钮，然后点击它，接着根据提示进行操作，例如设置价格或确认修改等。"
+    },
+    {
+        "instruction": "什么是模块？",
+        "input": "什么是模块？",
+        "output": "模块是指具有一定功能和结构的独立部分，可以与其他模块或整个系统相互交互。例如，在一个智能家居系统中，每个智能设备都可以看作是一个模块，它们互相连接并协作完成各种任务。"
+    },
+    {
+        "instruction": "如何使用模块？",
+        "input": "我如何使用模块？",
+        "output": "使用模块的具体步骤如下：首先，找到所需的模块，然后根据其使用说明进行安装和配置，接着可以利用模块提供的功能来完成所需任务。不同模块的具体使用方法可能会有所不同，请根据实际情况进行操作。"
+    },
+    {
+        "instruction": "如何使用这个设备？",
+        "input": "这个设备包括一个主引擎、一个主杠杆组件、一个副杠杆组件、一套上部装置和一个定位板。此外，还有一个与设备附带的產品说明书相关的文件。",
+        "output": "使用这个设备的方法包括：首先，请按照产品说明书中的指示操作。其次，使用主引擎、主杠杆组件和副杠杆组件，配合上部装置和定位板，进行相关操作。最后，确保按照产品说明书中的建议进行维护和保养。"
+    },
+    {
+        "instruction": "如何维护这个设备？",
+        "input": "这个设备包括一个主引擎、一个主杠杆组件、一个副杠杆组件、一套上部装置和一个定位板。此外，还有一个与设备附带的產品说明书相关的文件。",
+        "output": "维护这个设备的方法包括：首先，请定期检查设备的各个部件，确保其正常运行。其次，根据产品说明书中的建议进行保养和维护。最后，如果发现任何问题，请及时联系设备制造商或相关维修人员进行处理。"
+    },
+    {
+        "instruction": "这个设备有哪些部件？",
+        "input": "这个设备包括一个主引擎、一个主杠杆组件、一个副杠杆组件、一套上部装置和一个定位板。此外，还有一个与设备附带的產品说明书相关的文件。",
+        "output": "这个设备的部件包括：主引擎、主杠杆组件、副杠杆组件、上部装置和定位板。"
+    },
+    {
+        "instruction": "设备附带的产品说明书在哪里？",
+        "input": "这个设备包括一个主引擎、一个主杠杆组件、一个副杠杆组件、一套上部装置和一个定位板。此外，还有一个与设备附带的產品说明书相关的文件。",
+        "output": "设备附带的产品说明书已经附在设备上，与设备一起提供。"
+    }
+]
